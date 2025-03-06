@@ -30,17 +30,8 @@ section > h2{
     text-align: center;
 }
 
-
-
-/* Responsive styles */
 @media (max-width: 768px) {
-    nav ul li {
-        display: block;
-        margin: 0.5rem 0;
-        text-align: center;
-    }
-
-    footer {
+     footer {
         position: static;
     }
 }
